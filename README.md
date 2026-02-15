@@ -2,5 +2,6 @@
 
 <!-- 
 git add .
-git commit -m 
-git push -->
+git commit -m "update message"
+git push
+-->
