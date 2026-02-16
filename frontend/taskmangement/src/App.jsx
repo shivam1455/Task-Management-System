@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-    <p>pro</p>
-     
+      <div>project</div>
     </>
   )
 }
