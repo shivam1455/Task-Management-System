@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "$2b$10$dEeQNWJ52pjTi6n0DVbdBuZI4PCpXNY//ZmHjELRXCk41aWLR/2Dq",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Regular User",
+      "email": "user@example.com",
+      "password": "$2b$10$oJcetd4rCdBvERBTKVp8MeI7Af1kJ1bTiRxI6pIKVfGv9wQHGGZsK",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "bhavik mittal",
+      "email": "bhavik@gmail.com",
+      "password": "$2b$10$8sr3cwEuYsnxDMpOUv81uOkYkfNDBugSgw4Mw51VFDDIcc1eA76Ja",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "name": "Shivam",
+      "email": "itsme456789099@gmail.com",
+      "password": "$2b$10$kjSvpEokEozSbybTaPDTUeP0RqfJjARKKY3PpZBkbRBQRggRAMvH2",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "name": "Somesh",
+      "email": "qwerty@gmail.com",
+      "password": "$2b$10$LYW.LYv7TIWF/PRyT1izvOKzuWaPzocK3QhjFe31XAjtL8SyctUqu",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "ui bug",
+      "description": "please update the ui",
+      "assigned_to": 3,
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2026-03-27"
+    },
+    {
+      "id": 2,
+      "title": "Fix home page delay in loading the website",
+      "description": "Do it ASAP",
+      "assigned_to": 3,
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2026-03-27"
+    },
+    {
+      "id": 3,
+      "title": "make unique ui design",
+      "description": null,
+      "assigned_to": 6,
+      "priority": "high",
+      "status": "pending",
+      "due_date": "2026-04-01"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "task_id": 1,
+      "user_id": 3,
+      "content": "hello sir i am working on it , i will done it by tomarrow"
+    }
+  ],
+  "last_updated": "2026-03-22T18:59:15.925Z"
+}

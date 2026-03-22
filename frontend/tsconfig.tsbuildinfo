@@ -1,0 +1,1 @@
+{"root":["./src/admindashboard.tsx","./src/app.tsx","./src/home.tsx","./src/login.tsx","./src/signup.tsx","./src/userdashboard.tsx","./src/api.ts","./src/main.tsx","./src/vite-env.d.ts","./src/utils/geterrormessage.ts"],"version":"5.9.3"}
